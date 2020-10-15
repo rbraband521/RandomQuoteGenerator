@@ -17,7 +17,7 @@ var quotes = [
   {quote: "Toto, I've got a feeling we're not in Kansas anymore.", source: "Dorothy", citation: "The Wizard of Oz", year: 1939},
   {quote: "You talking to me?", source: "Robert DeNiro", citation: "Taxi Driver", year: 1976},
   {quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.", source: "Nelson Mandela"},
-  {quote: "The way to get started is to quite talking and being doing.", source: "Walt Disney"},
+  {quote: "The way to get started is to quit talking and begin doing.", source: "Walt Disney"},
   {quote: "If life were predicatable it would cease to be life, and be without flavor.", source: "Elanor Roosevelt"},
   {quote: "Life is what happens when you're busy making other plans.", source: "John Lennon"},
   {quote: "Do not go where the path may lead, go instead where there is no path an leave a trail.", source: "Ralph Waldo Emerson"},
